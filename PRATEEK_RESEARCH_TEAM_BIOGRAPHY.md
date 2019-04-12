@@ -1,0 +1,11 @@
+
+# Prateek Research Team Author Biography
+Author|Biography
+---|---
+![Prateek_Raj_Gautam](./Prateek_Raj_Gautam.jpg)|Prateek Raj Gautam `received M.Tech. degree in Electronics and Communication Engineering from Harcourt Butler Technological Institute Kanpur, India in 2011. He is currently pursuing Ph.D. degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest include energy-efficient scheme for wireless sensor network, Image Processing, CDMA, IDMA, and Brain wave mapping.`
+![Prateek_Raj_Gautam](./Sunil_Kumar.jpg)|Sunil Kumar `received M.Tech. degree in Electronics and Communication Engineering from Harcourt Butler Technological Institute Kanpur, India in 2011. He is currently pursuing Ph.D.    degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest include energy-efficient scheme for wireless sensor network.`  
+![Akshay Verma](./Akshay_Verma.jpg)|`Akshay Verma received M.Tech degree in Electronics and Communication Engineering from National Institute of Technology Jalandhar, Jalandhar, India in 2016. He is currently pursuing Ph.D. degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest includes energy efficient routing algorithm designing in wireless sensor networks.`
+![Tariqe_Rashid](./Tarique_Rashid.jpg)|Tarique Rashid `received M.Tech degree in Electronics and Communication Engineering from Motilal Nehru National Institute of Technology Allahabad, Allahabad, India in 2014. He is currently pursuing a Ph.D. degree with Motilal Nehru National Institute of Technology Allahabad,Prayagraj, India. He is currently working as an Assistant Professor in the Department of Electrical and Electronics Engineering, Katihar Engineering College, Katihar, India.  His research interest includes energy-efficient routing algorithm for Intra-WBSN.`
+![Arvind Kumar](./Arvind_Kumar.jpg)|Arvind Kumar `received Ph.D. degree from Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India in 2013. He is currently working as an Associate Professor in the Department ofElectronics and Communication Engineering, Motilal Nehru National Institute of Technology Allahabad, Prayagraj,  India. He has published more than 20 papers in various journal and conference.`
+
+[Submit correction here]()
