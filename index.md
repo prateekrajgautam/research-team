@@ -1,6 +1,6 @@
 # Prateek Research Team Author Biography
-Author|Biography|ORCID|RID|IEEE
----|---|---|---|---
+Author|Biography|ORCID|RID|IEEE  
+---|---|---|---|---  
 ![Prateek_Raj_Gautam](./Prateek_Raj_Gautam.jpg)|Prateek Raj Gautam `received M.Tech. degree in Electronics and Communication Engineering from Harcourt Butler Technological Institute Kanpur, India in 2011. He is currently pursuing Ph.D. degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest include energy-efficient scheme for wireless sensor network, Image Processing, CDMA, IDMA, and Brain wave mapping.`|[0000-0002-2889-4275](http://orcid.org/0000-0002-2889-4275)|[I-9311-2017](http://www.researcherid.com/rid/I-9311-2017)|91250146
 ![Prateek_Raj_Gautam](./Sunil_Kumar.jpg)|Sunil Kumar `received M.Tech. degree in Electronics and Communication Engineering from Harcourt Butler Technological Institute Kanpur, India in 2011. He is currently pursuing Ph.D.    degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest include energy-efficient scheme for wireless sensor network.` |0000-0002-9438-0635|J-2747-2017|94103323
 ![Akshay Verma](./Akshay_Verma.jpg)|`Akshay Verma received M.Tech degree in Electronics and Communication Engineering from National Institute of Technology Jalandhar, Jalandhar, India in 2016. He is currently pursuing Ph.D. degree with Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India. His research interest includes energy efficient routing algorithm designing in wireless sensor networks.`|[0000-0002-4112-0709](https://orcid.org/0000-0002-4112-0709)|---|94188560
